@@ -3,10 +3,12 @@ package com.itcast.git;
 public class Demo1 {
     public static void main(String[] args) {
         System.out.println("hello git");
+        System.out.println("hello git2");
+        //my love
     }
 
 
-    public static void test(){
+    public static void test() {
         System.out.println("hello git");
     }
 }
